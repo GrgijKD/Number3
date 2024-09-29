@@ -1,0 +1,14 @@
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\bin\Debug\net8.0\Number3.exe
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\bin\Debug\net8.0\Number3.deps.json
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\bin\Debug\net8.0\Number3.runtimeconfig.json
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\bin\Debug\net8.0\Number3.dll
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\bin\Debug\net8.0\Number3.pdb
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.AssemblyInfoInputs.cache
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.AssemblyInfo.cs
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.csproj.CoreCompileInputs.cache
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.dll
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\refint\Number3.dll
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.pdb
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\Number3.genruntimeconfig.cache
+C:\Users\User\Загрузки\Универ\Прога\pogromism\Number3\Number3\obj\Debug\net8.0\ref\Number3.dll
